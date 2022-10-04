@@ -28,4 +28,4 @@ function animate() {
   renderer.render(scene, camera);
 }
 
-animate();
+export default animate;
